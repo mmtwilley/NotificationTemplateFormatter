@@ -2,7 +2,6 @@ package com.manning.application.notification.NotificationTemplateFormatter.model
 
 import lombok.Getter;
 import lombok.Setter;
-
 @Getter
 @Setter
 
